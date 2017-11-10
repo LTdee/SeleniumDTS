@@ -29,7 +29,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class basicTitleTest {
 	
 	//URL to visit
-	public String QWE="http://tomcat.13.115.55.128.xip.io/CurrencyConverter-1/";
+	public String QWE="http://tomcat.10.10.1.201.xip.io/CurrencyConverter-1/";
 	
 	//Title to check
 	public String QWE1="Currency Converter";
