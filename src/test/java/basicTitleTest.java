@@ -50,7 +50,7 @@ public class basicTitleTest {
 		capability.setCapability(CapabilityType.TAKES_SCREENSHOT, true);
 		capability.setBrowserName("firefox");
 		//capabilities.setPlatform(Platform.Linux);
-
+System.out.println("navigating to:trial " + QWE);
         WebDriver driver = new RemoteWebDriver(new URL(nodeURL), capability);
         System.out.println("navigating to: " + QWE);
         driver.get(QWE);
